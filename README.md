@@ -28,7 +28,7 @@ g ← (|2.2
 )
 ```
 
-- Compute the GCD of 2 integers
+- Compute the GCD of 2 integers (Remove comments to run)
 
 ```
 Gcd ← (|2
